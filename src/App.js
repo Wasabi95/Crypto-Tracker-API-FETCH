@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My Crypto</h1>
+      <h1>My CryptoApp</h1>
       <input
         type='text'
         placeholder='Search..'
